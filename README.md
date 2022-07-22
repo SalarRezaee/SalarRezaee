@@ -82,15 +82,11 @@
 
   ## 📫 &nbsp;My Contacts
 
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/salarrezaee/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-qsalar905@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qsalar905@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/salidev.ir/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-SalarRezaee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablodsilva/)](https://www.linkedin.com/in/salarrezaee/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-SalarRezaee-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:qsalar905@gmail.com)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/salidev_-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/salidev.ir/)&nbsp;
 
 </div>
-
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -100,6 +96,6 @@
 
 
 ------
-Credits: [Pepyn0](https://github.com/salarrezaee)
+Credits: [Salar](https://github.com/salarrezaee)
 
 Last Edited on: 26/05/2022
