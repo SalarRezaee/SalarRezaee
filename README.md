@@ -14,7 +14,7 @@
 
   ## 🧭 &nbsp;About Me
 
-  - 📚 Information System student at UFPI.
+  - 📚 software engineer at azad university
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
   - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **Go**,**Next js**,
